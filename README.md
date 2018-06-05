@@ -20,10 +20,14 @@ NPM versioning test repo
 
 https://docs.npmjs.com/cli/version
 
-##### Custom suffix
+##### Custom version
 
 	npm version 2.0.0-beta.0
 	2.0.0-1 -> 2.0.0-beta.0
+
+##### From GIT
+
+	npm version from-git
 
 ##### Patch:
 
