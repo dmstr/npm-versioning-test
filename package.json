@@ -1,5 +1,6 @@
 {
-  "name": "npm-versioning-test",
+  "name": "@dmstr/npm-versioning-test",
+  "title": "NpmVersioningTest",
   "version": "0.0.1",
   "description": "NPM versioning test",
   "main": "index.js",
