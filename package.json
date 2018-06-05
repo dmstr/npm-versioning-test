@@ -1,0 +1,22 @@
+{
+  "name": "npm-versioning-test",
+  "version": "0.0.1",
+  "description": "NPM versioning test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "preversion": "",
+    "version": "",
+    "postversion": "git push && git push --tags && npm publish ./ --access public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmstr/npm-versioning-test.git"
+  },
+  "author": "npm@diemeisterei.de",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmstr/npm-versioning-test/issues"
+  },
+  "homepage": "https://github.com/dmstr/npm-versioning-test#readme"
+}
